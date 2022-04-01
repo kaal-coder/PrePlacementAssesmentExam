@@ -5,3 +5,5 @@ The above are PDFs 📚 that may help students prepare for the upcoming Pre Plac
 
 
 Any contribution 🎯 made to this will be highly appreciated.💯
+
+Note- 
