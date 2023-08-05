@@ -1,0 +1,17 @@
+Problem Statement
+
+To build a castle a crane has to lift stones and transport. You are given an integer cap denoting the maximum weight a crane can carry in a single turn and a positive Integer array stones consisting of n stones, stones array contains the weight of all the n stones. Find minimum numbers of turns required by the crane to transport all stones of the array stones, such that for each turn not more than 2 stones can be transported.
+
+Note:
+
+The weight of each stone of stones array is less than or equal to the maximum capacity of the crane.
+
+Input Format:
+
+Each test case consists of three lines of input: The first line contains an integer cap, l.e. the maximum lifting capacity of the crane. The second line contains an integer n, i.e. the number of stones in the array. The third line contains n integers separated by space, i.e. the weight of stones in the array stones
+
+Input will be read from the STDIN by the candidate
+
+Output Format:
+
+The output contains a single integer i.e., the minimum number of turns required to transport all the stones
